@@ -1,4 +1,4 @@
-python-telegram-bot[webhooks]==20.7
+python-telegram-bot[ext,webhooks,job-queue]==22.8
 asyncpg>=0.29.0
 groq>=0.9.0
 pytz>=2024.1
